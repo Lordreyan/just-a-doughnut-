@@ -1,4 +1,4 @@
-# just a doughnut
+
 import pygame
 import math
 import colorsys
