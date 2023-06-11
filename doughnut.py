@@ -1,4 +1,4 @@
-#Just a rotating doughnut
+#Just a rotating doughnut with using python modules
 import pygame
 import math
 import colorsys
